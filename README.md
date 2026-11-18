@@ -1,14 +1,14 @@
-# Hola 👋
+## Hola 👋
 
-Soy Caterine, Física con interés en el modelado computacional, el análisis de datos y la aplicación de métodos numéricos y de aprendizaje automático a problemas científicos.
+Soy Caterine, Física con interés en el modelado computacional de 
 
-## 🔬 En qué trabajo
+### 🔬 En qué trabajo
 
 - Simulación y métodos numéricos aplicados a problemas de física.
 - Análisis de datos y modelos de aprendizaje automático en Python.
 - Cálculos de estructura electrónica (DFT) aplicados al diseño de compuestos.
 
-## 🛠️ Herramientas
+### 🛠️ Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)

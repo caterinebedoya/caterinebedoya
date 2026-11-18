@@ -1,6 +1,7 @@
 ## Hola 👋
 
-Soy Caterine, Física con interés en el modelado teórico y computacional de sistemas complejos. Trabajo desde la convicción de que el formalismo de la física ofrece herramientas que se adaptan a contextos interdisciplinarios, desde problemas científicos hasta fenómenos financieros y sociales.
+Soy Caterine, física interesada en modelar lo complejo. Me entusiamas extrapolar el formalismo de la fisica de los sistemas dinámicos a otras disciplinas. 
+Trabajo con métodos numéricos y modelos de aprendizaje automático en Python, desde la simulación de sistemas físicos hasta el análisis predictivo de datos.
 
 
 ### 🛠️ Herramientas
@@ -22,8 +23,7 @@ Soy Caterine, Física con interés en el modelado teórico y computacional de si
 
 📫 **Contacto:** caterine.bedoyab@udea.edu.co
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caterine.bedoyab@udea.edu.co)
-<!--
+
 **caterinebedoya/caterinebedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

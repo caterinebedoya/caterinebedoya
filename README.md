@@ -2,11 +2,6 @@
 
 Soy Caterine, Física con interés en el modelado teórico y computacional de sistemas complejos. Trabajo desde la convicción de que el formalismo de la física ofrece herramientas que se adaptan a contextos interdisciplinarios, desde problemas científicos hasta fenómenos financieros y sociales.
 
-### 🔬 En qué trabajo
-
-- Simulación y métodos numéricos aplicados a problemas de física.
-- Análisis de datos y modelos de aprendizaje automático en Python.
-- Cálculos de estructura electrónica (DFT) aplicados al diseño de compuestos.
 
 ### 🛠️ Herramientas
 
@@ -18,16 +13,10 @@ Soy Caterine, Física con interés en el modelado teórico y computacional de si
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 📂 Proyectos
-
-- **[Estudio Computacional de Derivados de Artemisinina](https://github.com/caterinebedoya/EstudioDerivadosArtemisinina)** — Trabajo de grado: diseño y caracterización de derivados de artemisinina con modelos generativos, filtros de similitud a fármaco y descriptores de reactividad basados en DFT.
-- **[Física Computacional](https://github.com/caterinebedoya/FisicaComputacional)** — Simulaciones de física estadística y teórica: modelo de Ising, paramagnetismo de Langevin, sistemas caóticos y dinámica clásica y relativista.
-- **[Ciencia de Datos](https://github.com/caterinebedoya/[NombreDelRepo])** — Análisis exploratorio con pandas, series de tiempo y redes neuronales con Keras y TensorFlow aplicadas a datos sísmicos.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](caterine.bedoyab@udea.edu.co)
 <!--
 **caterinebedoya/caterinebedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

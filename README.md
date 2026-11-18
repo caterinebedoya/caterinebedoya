@@ -1,12 +1,12 @@
-# Hola, soy Caterine 👋
+# Hola 👋
 
-Soy Física, con interés en el modelado computacional, el análisis de datos y la aplicación de métodos numéricos y de aprendizaje automático a problemas científicos.
+Soy Caterine, Física con interés en el modelado computacional, el análisis de datos y la aplicación de métodos numéricos y de aprendizaje automático a problemas científicos.
 
 ## 🔬 En qué trabajo
 
 - Simulación y métodos numéricos aplicados a problemas de física.
 - Análisis de datos y modelos de aprendizaje automático en Python.
-- Química computacional: cálculos de estructura electrónica (DFT) aplicados al diseño de compuestos.
+- Cálculos de estructura electrónica (DFT) aplicados al diseño de compuestos.
 
 ## 🛠️ Herramientas
 

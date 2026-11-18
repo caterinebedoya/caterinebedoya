@@ -13,6 +13,12 @@ Soy Caterine, Física con interés en el modelado teórico y computacional de si
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+## 🌱 Un poco sobre mí
+
+- 🧑‍🏫 Disfruto enseñar física y matemáticas; explicar algo bien es la mejor forma de entenderlo.
+- 🧩 Me gustan los problemas que parecen simples y no lo son.
+- ☕ Aprecio una buena taza de café mientras le doy vueltas a un problema.
+- ✍️ Creo que un buen modelo, como un buen texto, se mide por su claridad.
 
 ## 📫 Contacto
 

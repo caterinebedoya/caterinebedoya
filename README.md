@@ -22,7 +22,7 @@ Soy Caterine, Física con interés en el modelado teórico y computacional de si
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](caterine.bedoyab@udea.edu.co)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caterine.bedoyab@udea.edu.co)
 <!--
 **caterinebedoya/caterinebedoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,7 +20,7 @@ Soy Caterine, Física con interés en el modelado teórico y computacional de si
 - ☕ Aprecio una buena taza de café mientras le doy vueltas a un problema.
 - ✍️ Creo que un buen modelo, como un buen texto, se mide por su claridad.
 
-## 📫 Contacto
+📫 **Contacto:** caterine.bedoyab@udea.edu.co
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caterine.bedoyab@udea.edu.co)
 <!--

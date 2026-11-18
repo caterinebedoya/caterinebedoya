@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Caterine, Física con interés en el modelado computacional de 
+Soy Caterine, Física con interés en el modelado teórico y computacional de sistemas complejos. Trabajo desde la convicción de que el formalismo de la física ofrece herramientas que se adaptan a contextos interdisciplinarios, desde problemas científicos hasta fenómenos financieros y sociales.
 
 ### 🔬 En qué trabajo
 
